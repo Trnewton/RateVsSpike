@@ -10,7 +10,7 @@
 
 ## Running experiments and plotting
 
-The package 'pysitronics' contains the code for simulating the different network types and training them with FORCE. The module 'pysitronics/networks.py' contains the code for simulating networks and 'pysitronics/optimization.py' contains the code for applying FORCE training to the networks. The module 'supervisors.py' contains the code for generating the supervisors used in the manuscript. The script 'demo_figure.py' can be used to create figure 3, 'train_FORCE.py' can be used to generate the data used in the manuscript, and the module 'figures.py' contains the code used to generate the figures.
+The package `pysitronics` contains the code for simulating the different network types and training them with FORCE. The module `pysitronics/networks.py` contains the code for simulating networks and `pysitronics/optimization.py` contains the code for applying FORCE training to the networks. The module `supervisors.py` contains the code for generating the supervisors used in the manuscript. The script `demo_figure.py` can be used to create figure 3, `train_FORCE.py` can be used to generate the data used in the manuscript, and the module `figures.py` contains the code used to generate the figures.
 
 To generate the data and plots for Fig 3 run
 ```
