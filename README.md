@@ -1,5 +1,6 @@
 #  Code for FORCE trained spiking networks do not benefit from faster learning while parameter matched rate networks do
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13333935.svg)](https://doi.org/10.5281/zenodo.13333935)
 
 ## Requirements
 * [python>=3.9](https://www.python.org/)
