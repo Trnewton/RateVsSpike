@@ -21,7 +21,7 @@ However this might take a long time to run, for help on running specific panels 
 python demo_figure.py --help
 ```
 
-To generate QG parameter grid sweep data use the train_FORCE.py script, for help and examples see the documentation within the file and run
+To generate QG parameter grid sweep data use the `train_FORCE.py` script, for help and examples see the documentation within the file and run
 ```
 python train_FORCE.py --help
 ```
